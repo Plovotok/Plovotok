@@ -62,6 +62,4 @@ Graduated from the Moscow Aviation Institute with a degree in Certification of A
 
 <a href="http://www.github.com/Plovotok"><img src="https://github-readme-stats.vercel.app/api?username=Plovotok&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=14b8a6&bg_color=27272a&hide_border=true&show_icons=true" alt="Plovotok's GitHub stats" /></a>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Plovotok/WeatherMe" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Plovotok&repo=WeatherMe&title_color=facc15&text_color=ffffff&icon_color=14b8a6&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/Plovotok/image_app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Plovotok&repo=image_app&title_color=facc15&text_color=ffffff&icon_color=14b8a6&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
