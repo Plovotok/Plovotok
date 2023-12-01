@@ -13,7 +13,7 @@ Graduated from the Moscow Aviation Institute with a degree in Certification of A
 * 🚀  I'm currently working on [WeatherMe application](http://github.com/Plovotok/WeatherMe)
 * 🧠  I'm learning Jetpack Compose
 
- ![Snake animation](https://github.com/Plovotok/Plovotok/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Plovotok/Plovotok/blob/output/github-contribution-grid-snake2.svg)
 
 ### Skills
 
