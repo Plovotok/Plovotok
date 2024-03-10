@@ -24,20 +24,25 @@ Graduated from the Moscow Aviation Institute with a degree in Certification of A
 
 ### Technologies
 
-- Xml
+- Xml, 
+- Jetpack Compose, 
 - Navigation Component,
 - MVVM,
-- Clean architecture
+- Clean architecture, 
 - REST,
 - Firebase
 
 ### Libraries
 
-- Hilt
+- Hilt, Koin, Kodein,
+- Accompanist, 
+- Jetpack Compose, 
+- Voyager, 
 - Retrofit, Ktor-client,
 - Room,
-- Glide,
+- Glide, Coil, 
 - Cloudpayments android,
+- Mapbox maps, 
 - CameraX,
 - Kotlin Coroutines, Kotlin Flow
 - Dgis sdk
