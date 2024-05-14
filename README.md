@@ -5,12 +5,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm an Android-developer from Moscow
 ------------------------
 
-Graduated from the Moscow Aviation Institute with a degree in Certification of Aviation Equipment. Studied Pascal, C, C++ at the functional programming level. Then I studied the Kotlin language and the Android Studio IDE.
+Graduated from the Moscow Aviation Institute with a degree in Certification of Aviation Equipment. Work experience: 1 year and 2 months
 
 * 🌍  I'm based in Moscow
 * 🖥️  See my portfolio at [my repositories](http://github.com/Plovotok?tab=repositories)
 * ✉️  You can contact me at [z-sozinov@mail.ru](mailto:z-sozinov@mail.ru)
-* 🚀  I'm currently working on [WeatherMe application](http://github.com/Plovotok/WeatherMe)
+* 🚀  I'm currently working on Maps application (still private repo, I'l make it public in couple of months)
 * 🧠  I'm learning Jetpack Compose
 
  ![Snake animation](https://github.com/Plovotok/Plovotok/blob/output/github-contribution-grid-snake2.svg)
