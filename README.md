@@ -13,8 +13,6 @@ Graduated from the Moscow Aviation Institute with a degree in Certification of A
 * 🚀  I'm currently working on Maps application (still private repo, I'l make it public in couple of months)
 * 🧠  I'm learning Jetpack Compose
 
- ![Snake animation](https://github.com/Plovotok/Plovotok/blob/output/github-contribution-grid-snake2.svg)
-
 ### Skills
 
 
