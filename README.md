@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm an Android-developer from Moscow
 ------------------------
 
-Graduated from the Moscow Aviation Institute with a degree in Certification of Aviation Equipment. Work experience: 3 year+
+Graduated from the Moscow Aviation Institute with a degree in Certification of Aviation Equipment. Work experience: 3+ year
 
 * 🌍  I'm based in Moscow
 * 🖥️  See my portfolio at [my repositories](http://github.com/Plovotok?tab=repositories)
