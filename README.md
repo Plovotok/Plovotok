@@ -59,16 +59,6 @@ Graduated from the Moscow Aviation Institute with a degree in Certification of A
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Plovotok"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Plovotok&stroke=ffffff&background=27272a&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
-<a href="https://github.com/Plovotok" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plovotok&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=14b8a6&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
-<a href="http://www.github.com/Plovotok"><img src="https://github-readme-stats.vercel.app/api?username=Plovotok&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=14b8a6&bg_color=27272a&hide_border=true&show_icons=true" alt="Plovotok's GitHub stats" /></a>
-
 
 <b>Top Repositories</b>
 
