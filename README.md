@@ -9,7 +9,7 @@ Graduated from the Moscow Aviation Institute with a degree in Certification of A
 
 * 🌍  I'm based in Moscow
 * 🖥️  See my portfolio at [my repositories](http://github.com/Plovotok?tab=repositories)
-* ✉️  You can contact me at [eugeneplovotok@gmail.com](mailto:eugeneplovotok@gmail.com) or [Plovotok](https://t.me/Plovotok)
+* ✉️  You can contact me at [eugeneplovotok@gmail.com](mailto:eugeneplovotok@gmail.com) or [Telegram](https://t.me/Plovotok)
 * 🚀  I'm currently working on Maps application (still private repo)
 * 🧠  I'm learning Jetpack Compose
 
