@@ -4,14 +4,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm an Android-developer from Moscow
 ------------------------
+Middle Android Developer with almost 4 years of commercial development experience. I write in Kotlin and use Jetpack Compose, Coroutines, Flow, Clean Architecture, Hilt, Retrofit, and Room.
 
-Graduated from the Moscow Aviation Institute with a degree in Certification of Aviation Equipment. Work experience: 3+ year
+Key achievements include: increased device support by 27% through the integration of 2GIS, Yandex MapKit, Google Maps, and Huawei Maps; reduced release rollout time by 70%; increased NPS by 10 points; and increased user retention by 16%.
+
+I have enterprise development experience: custom launchers, Compose Multiplatform, and backends in Ktor and PostgreSQL. I manage pet projects and open source, and have authored an article on Habr about custom UI components.
+
+I am seeking middle-level positions in product development for Android apps, with a priority on projects using Jetpack Compose and those focused on metric growth.
 
 * 🌍  I'm based in Moscow
 * 🖥️  See my portfolio at [my repositories](http://github.com/Plovotok?tab=repositories)
 * ✉️  You can contact me at [eugeneplovotok@gmail.com](mailto:eugeneplovotok@gmail.com) or [Telegram](https://t.me/Plovotok)
-* 🚀  I'm currently working on Maps application (still private repo)
-* 🧠  I'm learning Jetpack Compose
 
 ### Skills
 
@@ -29,6 +32,8 @@ Graduated from the Moscow Aviation Institute with a degree in Certification of A
 - Clean architecture, 
 - REST,
 - Firebase
+- SOLID
+- Dagger
 
 ### Libraries
 
